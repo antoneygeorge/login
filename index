@@ -3,7 +3,7 @@
 <head> Welcome </head>
 <body>
 <?php
-echo "Welcome"
+echo " Welcome to this WebSite "
 ?>
 </body>
 </html>
