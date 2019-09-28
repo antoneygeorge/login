@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head> Welcome </head>
+<body>
+<?php
+echo "Welcome"
+?>
+</body>
+</html>
