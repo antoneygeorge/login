@@ -2,6 +2,7 @@
 <html>
 <head> Welcome </head>
 <body>
+new functions0
 <?php
 echo " Welcome to this WebSite "
 ?>
@@ -9,4 +10,5 @@ echo " Welcome to this WebSite "
 new functions
 
 </body>
+new functions1
 </html>
